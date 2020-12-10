@@ -161,6 +161,8 @@ const BrakeOut = () => {
                 ctx.font = "50px serif";
                 ctx.fillStyle = playerParam.color;
                 ctx.fillText(`Press Enter to start`, canvas.width / 2 - 200, canvas.height / 2 - 100);
+                ctx.font = "30px serif";
+                ctx.fillText(`Press left and right arrows to move the platform`, canvas.width / 2 - 270, canvas.height / 2 + 200);
             }
 
 
