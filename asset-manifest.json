@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/brakeoutgame/static/css/main.2eeaa037.chunk.css",
-    "main.js": "/brakeoutgame/static/js/main.e1d2d3af.chunk.js",
-    "main.js.map": "/brakeoutgame/static/js/main.e1d2d3af.chunk.js.map",
+    "main.js": "/brakeoutgame/static/js/main.f1c36748.chunk.js",
+    "main.js.map": "/brakeoutgame/static/js/main.f1c36748.chunk.js.map",
     "runtime-main.js": "/brakeoutgame/static/js/runtime-main.0d42cf35.js",
     "runtime-main.js.map": "/brakeoutgame/static/js/runtime-main.0d42cf35.js.map",
     "static/js/2.a386c5c5.chunk.js": "/brakeoutgame/static/js/2.a386c5c5.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.0d42cf35.js",
     "static/js/2.a386c5c5.chunk.js",
     "static/css/main.2eeaa037.chunk.css",
-    "static/js/main.e1d2d3af.chunk.js"
+    "static/js/main.f1c36748.chunk.js"
   ]
 }
