@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,QACE,gEAEF","file":"main.2eeaa037.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n#canvas {\n  background-image: url('./images/bg.jpg') ;\n\n}\n\n"]}

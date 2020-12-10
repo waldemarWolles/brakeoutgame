@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/brakeoutgame/static/css/main.2eeaa037.chunk.css",
+    "main.js": "/brakeoutgame/static/js/main.e1d2d3af.chunk.js",
+    "main.js.map": "/brakeoutgame/static/js/main.e1d2d3af.chunk.js.map",
+    "runtime-main.js": "/brakeoutgame/static/js/runtime-main.0d42cf35.js",
+    "runtime-main.js.map": "/brakeoutgame/static/js/runtime-main.0d42cf35.js.map",
+    "static/js/2.a386c5c5.chunk.js": "/brakeoutgame/static/js/2.a386c5c5.chunk.js",
+    "static/js/2.a386c5c5.chunk.js.map": "/brakeoutgame/static/js/2.a386c5c5.chunk.js.map",
+    "index.html": "/brakeoutgame/index.html",
+    "static/css/main.2eeaa037.chunk.css.map": "/brakeoutgame/static/css/main.2eeaa037.chunk.css.map",
+    "static/js/2.a386c5c5.chunk.js.LICENSE.txt": "/brakeoutgame/static/js/2.a386c5c5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/brakeoutgame/static/media/bg.27c54c79.jpg",
+    "static/media/bg_music.6fb56bd9.mp3": "/brakeoutgame/static/media/bg_music.6fb56bd9.mp3",
+    "static/media/gameOver.307dd9f1.wav": "/brakeoutgame/static/media/gameOver.307dd9f1.wav",
+    "static/media/gameWin.35972233.ogg": "/brakeoutgame/static/media/gameWin.35972233.ogg",
+    "static/media/lifeDecreasing.e2573f40.wav": "/brakeoutgame/static/media/lifeDecreasing.e2573f40.wav",
+    "static/media/objectHit.7e46bccf.wav": "/brakeoutgame/static/media/objectHit.7e46bccf.wav",
+    "static/media/platformHit.892a81dc.wav": "/brakeoutgame/static/media/platformHit.892a81dc.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d42cf35.js",
+    "static/js/2.a386c5c5.chunk.js",
+    "static/css/main.2eeaa037.chunk.css",
+    "static/js/main.e1d2d3af.chunk.js"
+  ]
+}
